@@ -1,0 +1,4 @@
+﻿  Server.c
+D:\Users\Owner\Desktop\Embedded Udacity WS\PaymentApplication\Server.c(108,8): warning C4013: 'printf' undefined; assuming extern returning int
+D:\Users\Owner\Desktop\Embedded Udacity WS\PaymentApplication\Server.c(113): warning C4716: 'saveTransaction': must return a value
+  PaymentApplication.vcxproj -> D:\Users\Owner\Desktop\Embedded Udacity WS\PaymentApplication\Debug\PaymentApplication.exe
